@@ -3,7 +3,7 @@ import random
 inside_points= 0
 outside_points= 0
   
-for i in range(1000000):
+for i in range(100000):
     x= random.uniform(-1, 1) # between 0 and 1
     y= random.uniform(-1, 1)
   
